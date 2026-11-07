@@ -1,0 +1,6 @@
+{
+  "name": "PersonaTab - AI Personalized Chrome New Tab",
+  "description": "Adaptive, personalized Chrome New Tab extension dashboard tailored to your profession, workflow, and aesthetic style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
